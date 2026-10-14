@@ -9,6 +9,7 @@ go-to: start_menu_2
 = Social Democracy: An Alternate History
 
 @start_menu_2
+set-bg: img/map_indi.png
 
 - @start_1: Start game
 - @modinfo: Mod Info - Last Updated 2026/08/04
